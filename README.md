@@ -44,6 +44,8 @@ In case you bump into other good resources, or some of these links become outdat
 - [Whoishiring](https://whoishiring.io/)
 - [LinkedIn](https://www.linkedin.com/jobs/search/)
 - [Jobbatical](https://jobbatical.com/)
+- [Women who code](https://www.womenwhocode.com/jobs)
+- [Women N Talent](https://womenntalent.com/)
 
 **Local (Barcelona)**
 
@@ -56,11 +58,6 @@ In case you bump into other good resources, or some of these links become outdat
 - [Remote OK](https://remoteok.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
-
-**For women**
-
-- [Women who code](https://www.womenwhocode.com/jobs)
-- [Women N Talent](https://womenntalent.com/)
 
 ## Side projects
 
