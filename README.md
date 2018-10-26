@@ -22,7 +22,9 @@ With a good system, you can become an interview ninja:
 
 - **Write down your goals**. Take five minutes to write down what are your goals in this job search. You can update them if you change your mind along the way, but it's very useful to have a reference.
 - **Use a spreadsheet** to keep your search well organized. This is a [basic template](https://docs.google.com/spreadsheets/d/1xXIppMbguD0pp6VuqkywSW6xPVRwpaIyBz6z5a-yWcY) to help you out, feel free to modify it as needed.
-- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am. Being methodic and rewarding yourself really pays off.
+- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today!). Being methodic and rewarding yourself afterwards really pays off.
+
+In case your job applications requires a cover letter, you can find a starting template in the `./examples` folder.
 
 ## Job platforms
 
