@@ -45,6 +45,7 @@ In case you bump into other good resources, or some of these links become outdat
 - [Landing.jobs](https://landing.jobs/)
 - [Whoishiring](https://whoishiring.io/)
 - [LinkedIn](https://www.linkedin.com/jobs/search/)
+- [Snap](https://snap.hr/)
 - [Jobbatical](https://jobbatical.com/)
 - [Women who code](https://www.womenwhocode.com/jobs)
 - [Women N Talent](https://womenntalent.com/)
