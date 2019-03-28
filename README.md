@@ -64,8 +64,7 @@ In case you bump into other good resources, or some of these links become outdat
 
 ## Side projects
 
-Whenever you get tired of practicing interview skills, applying to companies, or going to interviews, here are 3 useful things you should do during these days:
+Whenever you get tired of practicing interview skills, applying to companies, or going to interviews, here are a couple useful things you should do during these days:
 
 - **Add automated tests** to your senior projects. In case they already have some, extend the test coverage. As always, start with unit tests, and once you have a good base consider adding end-to-end tests.
 - **Add features** to your senior projects. These are the last few days that you can get direct support from instructors and work full-time with your team. Take advantage of it to ship your project and deploy it online, while implementing the functionality at the top of your backlog.
-- **Do open source contributions**. These are an amazing training for your coding skills and look great on your CV too! Check out [CodeTriage](https://www.codetriage.com/?language=JavaScript).
