@@ -14,7 +14,7 @@ Take these steps in the meantime to hone your skills:
 - **Check your preparation** with this [collection of common JavaScript Front-End reference questions](https://github.com/yangshun/front-end-interview-handbook).
 - **Scroll through this book**: “[Cracking the coding interview](https://www.dropbox.com/s/zhs8r98f1qf62ug/Cracking%20the%20Coding%20Interview.pdf?dl=0)”. Especially check the first few sections.
 
-During the next few weeks, keep practicing and improving your whiteboarding skills more or less daily, until you sign an offer. There are many platforms to do this. As a Codeworks student, if you sign up on [Coderbyte](https://coderbyte.com/) through [this link](https://coderbyte.com/sl?signupPromo=codeworks-practice-463463) you get free unlimited access for 3 months (if you already signed up during our intro course, you need to delete your account first, or sign up for a new one with a different email).
+During the next few weeks, keep practicing and improving your whiteboarding skills more or less daily, until you sign an offer. There are many platforms to do this. As a perk, if you sign up on [Coderbyte](https://coderbyte.com/) through [this link](https://coderbyte.com/sl?signupPromo=codeworks-practice-463463) you get free unlimited access for 3 months (if you already signed up during our intro course, you need to delete your account first, or sign up for a new one with a different email).
 
 Independently of the platform(s) that you choose, find what level of challenges you can solve, and then try to go a step up.
 
