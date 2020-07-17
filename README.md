@@ -24,7 +24,7 @@ In a real interview, make sure to communicate well with the interviewer.
 - While you implement a solution, to explain your line of thinking.
 - After you’re done, to comment on the trade-offs you made and what can be improved.
 
-Try to practice this beforehand, speaking out loud as you solve some exercises.
+Try this at home a few times, speaking out loud as you practice some exercises, to get used to it.
 
 ## Organization
 
