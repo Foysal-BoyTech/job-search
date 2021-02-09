@@ -61,6 +61,7 @@ In case you bump into other good resources, or some of these links become outdat
 - [Women who code](https://www.womenwhocode.com/jobs)
 - [Women N Talent](https://womenntalent.com/)
 - [SanerJobs](https://sanerjobs.com/)
+- [Reactiflux](https://www.reactiflux.com/jobs/)
 
 **Barcelona**
 
@@ -82,6 +83,25 @@ In case you bump into other good resources, or some of these links become outdat
 - [Remote OK](https://remoteok.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
+
+## Slack communities
+
+Tech communities can be very useful in your job search. They usually have a job channel where users post job opportunities at their companies. Make sure you join and introduce yourself in the introductions channel with something like:
+
+> Hi everyone! I’m [name]. I’ve just graduated from Codeworks [city] [if remote just say “Codeworks”], which was pretty insane: 11h a day, Monday to Saturday, for 3 months. I’m currently looking for software engineering roles
+> 
+> I’ve worked with technologies such as [mention some technologies]. You can check out my profiles here, feel free to get in touch if interested:
+> 
+> https://github.com/[username]
+> https://linkedin.com/in/[username]
+
+Make sure you find a way to add value to the community instead of just self-promoting.
+
+- [StartupsBCN](https://marsbased.com/startups/)
+- [TechLondon](https://techlondon.io/)
+- [FrontendLondon](https://frontendlondon.co.uk/)
+- [StartupBerlin](https://startupberlin.co/)
+- [TechMasters](https://techmasters.chat/)
 
 ## Side projects
 
