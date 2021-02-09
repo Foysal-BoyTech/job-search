@@ -33,7 +33,7 @@ As you apply to many companies it’s easy to lose track of when you last intera
 With a good system, you can become an interview ninja:
 
 - **Write down your goals**. Take five minutes to write down what are your goals in this job search. You can update them if you change your mind along the way, but it's very useful to have a reference.
-- **Keep yourself organized**. Keep track of all your applications and their status using the spreadsheet that you will receive today from our Outcomes Team.
+- **Keep yourself organized**. Track all your applications and their status using the spreadsheet that you will receive today from our Outcomes Team.
 - **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today!). Being methodical and rewarding yourself afterwards really pays off.
 
 In case your job applications requires a cover letter, you can find a starting template in the `./examples` folder.
