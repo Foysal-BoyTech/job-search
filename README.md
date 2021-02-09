@@ -33,8 +33,8 @@ As you apply to many companies it’s easy to lose track of when you last intera
 With a good system, you can become an interview ninja:
 
 - **Write down your goals**. Take five minutes to write down what are your goals in this job search. You can update them if you change your mind along the way, but it's very useful to have a reference.
-- **Use a spreadsheet** to keep your search well organized. This is a [basic template](https://docs.google.com/spreadsheets/d/1xXIppMbguD0pp6VuqkywSW6xPVRwpaIyBz6z5a-yWcY) to help you out, feel free to modify it as needed.
-- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today!). Being methodic and rewarding yourself afterwards really pays off.
+- **Keep yourself organized**. Track all your applications and their status using the spreadsheet that you will receive today from our Outcomes Team.
+- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today!). Being methodical and rewarding yourself afterwards really pays off.
 
 In case your job applications requires a cover letter, you can find a starting template in the `./examples` folder.
 
@@ -46,33 +46,63 @@ In case you bump into other good resources, or some of these links become outdat
 
 **International**
 
-- [Hired](https://hired.com/)
-- [Dice](http://www.dice.com/)
-- [Startup.jobs](https://startup.jobs/)
+- [LinkedIn](https://www.linkedin.com/jobs/search/)
 - [Angel.co](https://angel.co/jobs)
-- [Jobfluent](https://www.jobfluent.com/)
+- [Hired](https://hired.com/)
+- [Startup.jobs](https://startup.jobs/)
+- [HoneyPot](https://www.honeypot.io/)
 - [Whitetruffle](https://www.whitetruffle.com/)
 - [Stack Overflow](http://stackoverflow.com/jobs)
 - [Glassdoor](https://www.glassdoor.com/)
-- [Landing.jobs](https://landing.jobs/)
 - [Whoishiring](https://whoishiring.io/)
-- [LinkedIn](https://www.linkedin.com/jobs/search/)
+- [Landing.jobs](https://landing.jobs/)
 - [Snap](https://snap.hr/)
 - [Jobbatical](https://jobbatical.com/)
 - [Women who code](https://www.womenwhocode.com/jobs)
 - [Women N Talent](https://womenntalent.com/)
+- [SanerJobs](https://sanerjobs.com/)
+- [Reactiflux](https://www.reactiflux.com/jobs/)
 
-**Local (Barcelona)**
+**Barcelona**
 
-- [Infojobs](https://www.infojobs.net/)
-- [Barcinno](http://jobs.barcinno.com/)
-- [Bandit](https://bandit.io/)
+- [Jobfluent](https://www.jobfluent.com/)
+- [Landing.jobs](https://landing.jobs/)
+
+**London**
+
+- [Otta](https://otta.com/)
+- [WorkInStartups](https://workinstartups.com/)
+- [UnicornHunt](https://unicornhunt.io/)
+
+**Berlin**
+
+- [BerlinStartupJobs](https://berlinstartupjobs.com/)
 
 **Remote**
 
 - [Remote OK](https://remoteok.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
+
+## Communities
+
+Tech communities can be very useful in your job search. They usually have a job channel where users post job opportunities at their companies. Make sure you join and introduce yourself in the introductions channel with something like:
+
+> Hi everyone! I’m [name]. I’ve just graduated from Codeworks [city] [if remote just say “Codeworks”], which was pretty insane: 11h a day, Monday to Saturday, for 3 months. I’m currently looking for software engineering roles
+> 
+> I’ve worked with technologies such as [mention some technologies]. You can check out my profiles here, feel free to get in touch if interested:
+> 
+> https://github.com/[username]
+> https://linkedin.com/in/[username]
+
+Make sure you find a way to add value to the community instead of just self-promoting.
+
+- [StartupsBCN](https://marsbased.com/startups/)
+- [TechLondon](https://techlondon.io/)
+- [FrontendLondon](https://frontendlondon.co.uk/)
+- [StartupBerlin](https://startupberlin.co/)
+- [TechMasters](https://techmasters.chat/)
+- [GirlCode](https://www.girl-code.co.uk/)
 
 ## Side projects
 
