@@ -84,7 +84,7 @@ In case you bump into other good resources, or some of these links become outdat
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
 
-## Slack communities
+## Communities
 
 Tech communities can be very useful in your job search. They usually have a job channel where users post job opportunities at their companies. Make sure you join and introduce yourself in the introductions channel with something like:
 
@@ -102,6 +102,7 @@ Make sure you find a way to add value to the community instead of just self-prom
 - [FrontendLondon](https://frontendlondon.co.uk/)
 - [StartupBerlin](https://startupberlin.co/)
 - [TechMasters](https://techmasters.chat/)
+- [GirlCode](https://www.girl-code.co.uk/)
 
 ## Side projects
 
