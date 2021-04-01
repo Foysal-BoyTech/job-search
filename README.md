@@ -68,6 +68,7 @@ In case you bump into other good resources, or some of these links become outdat
 
 - [Jobfluent](https://www.jobfluent.com/)
 - [Landing.jobs](https://landing.jobs/)
+- [Circular](https://trycircular.com/)
 
 ### London
 
@@ -76,6 +77,7 @@ In case you bump into other good resources, or some of these links become outdat
 - [WorkInStartups](https://workinstartups.com/)
 - [UnicornHunt](https://unicornhunt.io/)
 - [Snap](https://snap.hr/)
+- [Cord](https://cord.co/search)
 
 ### Berlin
 
