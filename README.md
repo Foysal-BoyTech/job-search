@@ -44,7 +44,7 @@ Here are some online job platforms that are useful to find interesting offers.
 
 In case you bump into other good resources, or some of these links become outdated let us know!
 
-**International**
+### International
 
 - [LinkedIn](https://www.linkedin.com/jobs/search/)
 - [Angel.co](https://angel.co/jobs)
@@ -60,19 +60,19 @@ In case you bump into other good resources, or some of these links become outdat
 - [Reactiflux](https://www.reactiflux.com/jobs/)
 - [F6S](https://www.f6s.com/jobs)
 
-**Remote**
+#### Remote
 
 - [Remote OK](https://remoteok.io/)
 - [Landing.jobs](https://landing.jobs/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
 
-**Barcelona**
+### Barcelona
 
 - [Jobfluent](https://www.jobfluent.com/)
 - [Landing.jobs](https://landing.jobs/)
 
-**London**
+### London
 
 - [Otta](https://otta.com/)
 - [Hired](https://hired.com/)
@@ -80,12 +80,12 @@ In case you bump into other good resources, or some of these links become outdat
 - [UnicornHunt](https://unicornhunt.io/)
 - [Snap](https://snap.hr/)
 
-**Berlin**
+### Berlin
 
 - [BerlinStartupJobs](https://berlinstartupjobs.com/)
 - [talent.io](https://www.talent.io)
 
-**North America**
+### North America
 
 - [Built In](https://builtin.com/jobs)
 - [Triplebyte](https://triplebyte.com/)
