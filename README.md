@@ -59,9 +59,6 @@ In case you bump into other good resources, or some of these links become outdat
 - [SanerJobs](https://sanerjobs.com/)
 - [Reactiflux](https://www.reactiflux.com/jobs/)
 - [F6S](https://www.f6s.com/jobs)
-
-#### Remote
-
 - [Remote OK](https://remoteok.io/)
 - [Landing.jobs](https://landing.jobs/)
 - [We Work Remotely](https://weworkremotely.com/)
