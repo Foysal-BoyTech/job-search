@@ -60,6 +60,13 @@ In case you bump into other good resources, or some of these links become outdat
 - [Reactiflux](https://www.reactiflux.com/jobs/)
 - [F6S](https://www.f6s.com/jobs)
 
+**Remote**
+
+- [Remote OK](https://remoteok.io/)
+- [Landing.jobs](https://landing.jobs/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [Remotive](https://remotive.io/)
+
 **Barcelona**
 
 - [Jobfluent](https://www.jobfluent.com/)
@@ -78,14 +85,7 @@ In case you bump into other good resources, or some of these links become outdat
 - [BerlinStartupJobs](https://berlinstartupjobs.com/)
 - [talent.io](https://www.talent.io)
 
-**Remote - CET**
-
-- [Remote OK](https://remoteok.io/)
-- [Landing.jobs](https://landing.jobs/)
-- [We Work Remotely](https://weworkremotely.com/)
-- [Remotive](https://remotive.io/)
-
-**Remote - EST**
+**North America**
 
 - [Built In](https://builtin.com/jobs)
 - [Triplebyte](https://triplebyte.com/)
