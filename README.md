@@ -51,17 +51,14 @@ In case you bump into other good resources, or some of these links become outdat
 - [Hired](https://hired.com/)
 - [Startup.jobs](https://startup.jobs/)
 - [HoneyPot](https://www.honeypot.io/)
-- [Whitetruffle](https://www.whitetruffle.com/)
 - [Stack Overflow](http://stackoverflow.com/jobs)
 - [Glassdoor](https://www.glassdoor.com/)
 - [Whoishiring](https://whoishiring.io/)
-- [Landing.jobs](https://landing.jobs/)
-- [Snap](https://snap.hr/)
-- [Jobbatical](https://jobbatical.com/)
 - [Women who code](https://www.womenwhocode.com/jobs)
 - [Women N Talent](https://womenntalent.com/)
 - [SanerJobs](https://sanerjobs.com/)
 - [Reactiflux](https://www.reactiflux.com/jobs/)
+- [F6S](https://www.f6s.com/jobs)
 
 **Barcelona**
 
@@ -71,18 +68,33 @@ In case you bump into other good resources, or some of these links become outdat
 **London**
 
 - [Otta](https://otta.com/)
+- [Hired](https://hired.com/)
 - [WorkInStartups](https://workinstartups.com/)
 - [UnicornHunt](https://unicornhunt.io/)
+- [Snap](https://snap.hr/)
 
 **Berlin**
 
 - [BerlinStartupJobs](https://berlinstartupjobs.com/)
+- [talent.io](https://www.talent.io)
 
-**Remote**
+**Remote - CET**
 
 - [Remote OK](https://remoteok.io/)
+- [Landing.jobs](https://landing.jobs/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/)
+
+**Remote - EST**
+
+- [Built In](https://builtin.com/jobs)
+- [Triplebyte](https://triplebyte.com/)
+- [The Muse](https://www.themuse.com/search)
+- [Uncubed](https://uncubed.com/jobs)
+- [Ladders](https://www.theladders.com/jobs/search-jobs)
+- [Underdog](https://underdog.io/)
+- [Whitetruffle](https://www.whitetruffle.com/)
+- [Prospect](https://jobs.prospect.fyi)
 
 ## Communities
 
