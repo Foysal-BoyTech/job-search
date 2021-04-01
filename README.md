@@ -104,6 +104,7 @@ Tech communities can be very useful in your job search. They usually have a job 
 > I’ve worked with technologies such as [mention some technologies]. You can check out my profiles here, feel free to get in touch if interested:
 > 
 > https://github.com/[username]
+> 
 > https://linkedin.com/in/[username]
 
 Make sure you find a way to add value to the community instead of just self-promoting.
@@ -114,6 +115,7 @@ Make sure you find a way to add value to the community instead of just self-prom
 - [StartupBerlin](https://startupberlin.co/)
 - [TechMasters](https://techmasters.chat/)
 - [GirlCode](https://www.girl-code.co.uk/)
+- [NYCTech](https://www.nyctechslack.com/)
 
 ## Side projects
 
