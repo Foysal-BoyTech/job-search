@@ -16,33 +16,33 @@ Take these steps in the meantime to hone your skills:
 
 During the next few weeks, keep practicing and improving your whiteboarding skills more or less daily, until you sign an offer. There are many platforms to do this. As a perk, if you sign up on [Coderbyte](https://coderbyte.com/) through [this link](https://coderbyte.com/sl?signupPromo=codeworks-practice-463463) you get free unlimited access for 3 months (if you already signed up during our intro course, you need to delete your account first, or sign up for a new one with a different email).
 
-Independently of the platform(s) that you choose, find what level of challenges you can solve, and then try to go a step up.
+Independently of the platform(s) that you choose, find what level of challenges you can solve, and then try to progerssively step it up.
 
 In a real interview, make sure to communicate well with the interviewer.
 
-- Before you start solving an exercise, to check that you’ve understood the requirements well.
-- While you implement a solution, to explain your line of thinking.
-- After you’re done, to comment on the trade-offs you made and what can be improved.
+- Before you start solving an exercise, check that you’ve understood the requirements well.
+- While you implement a solution, explain your line of thinking.
+- After you’re done, comment on the trade-offs you made and what can be improved.
 
-Try this at home a few times, speaking out loud as you practice some exercises, to get used to it.
+Try this at home a few times to get used to it, speaking out loud as you practice some exercises.
 
-## Organization
+## Progress tracking
 
 As you apply to many companies it’s easy to lose track of when you last interacted with them, what is the status of your application, and what you should do next.
 
 With a good system, you can become an interview ninja:
 
 - **Write down your goals**. Take five minutes to write down what are your goals in this job search. You can update them if you change your mind along the way, but it's very useful to have a reference.
-- **Keep yourself organized**. Track all your applications and their status using the spreadsheet that you will receive today from our Outcomes Team.
-- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today!). Being methodical and rewarding yourself afterwards really pays off.
+- **Keep yourself organized**. Track all your applications and their status using the spreadsheet that you will receive from our Outcomes Team.
+- **Build a routine**. Apply every day to 5 companies that sound interesting to you, until you get interesting offers on the table. Do it every morning as your first task, for example from 9 to 10 am (start form today). Be methodical, as it really pays off, and give yourself a little treat after you complete the applications every day. Remember that a big achievement is made of many small achievements along the way.
 
-In case your job applications requires a cover letter, you can find a starting template in the `./examples` folder.
+In case your job applications require a cover letter, you can find a starting template in the `./examples` folder.
 
 ## Job platforms
 
 Here are some online job platforms that are useful to find interesting offers.
 
-In case you bump into other good resources, or some of these links become outdated let us know!
+In case you bump into other good resources, or some of these links become outdated please let us know!
 
 ### International
 
@@ -97,17 +97,7 @@ In case you bump into other good resources, or some of these links become outdat
 
 ## Communities
 
-Tech communities can be very useful in your job search. They usually have a job channel where users post job opportunities at their companies. Make sure you join and introduce yourself in the introductions channel with something like:
-
-> Hi everyone! I’m [name]. I’ve just graduated from Codeworks [city] [if remote just say “Codeworks”], which was pretty insane: 11h a day, Monday to Saturday, for 3 months. I’m currently looking for software engineering roles
-> 
-> I’ve worked with technologies such as [mention some technologies]. You can check out my profiles here, feel free to get in touch if interested:
-> 
-> https://github.com/[username]
-> 
-> https://linkedin.com/in/[username]
-
-Make sure you find a way to add value to the community instead of just self-promoting.
+Tech communities also are a good resource in your job search. Check out Meetups, tech events and conferences in the areas where you're looking for employment, and join the "jobs" channel in the relevant IM boards you find. Here are some examples (in case you bump into other good resources, or some of these links become outdated please let us know).
 
 - [StartupsBCN](https://marsbased.com/startups/)
 - [TechLondon](https://techlondon.io/)
