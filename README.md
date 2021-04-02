@@ -97,7 +97,9 @@ In case you bump into other good resources, or some of these links become outdat
 
 ## Communities
 
-Tech communities also are a good resource in your job search. Check out Meetups, tech events and conferences in the areas where you're looking for employment, and join the "jobs" channel in the relevant IM boards you find. Here are some examples (in case you bump into other good resources, or some of these links become outdated please let us know).
+Tech communities also are a good resource in your job search. Check out Meetups, tech events and conferences in the areas where you're looking for employment, and join the "jobs" channel in the relevant IM boards you find.
+
+Here are some examples (in case you bump into other good resources, or some of these links become outdated please let us know).
 
 - [StartupsBCN](https://marsbased.com/startups/)
 - [TechLondon](https://techlondon.io/)
